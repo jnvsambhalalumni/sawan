@@ -13,7 +13,7 @@ header {
   align-items: center;
   justify-content: space-between;
 }
-header img { height: 60px; }
+header img { height: 60px; border-radius: 34px;}
 nav a {
   color: #fff;
   margin-left: 20px;
