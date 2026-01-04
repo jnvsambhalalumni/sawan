@@ -43,6 +43,9 @@ h2 { color: #0a3d62; }
   background: #f9fbfd;
   padding: 20px;
   border-radius: 6px;
+  width: 50cm;
+  height: 40cm;
+  object-fit: cover;
 }
 .alumni-grid {
   display: grid;
